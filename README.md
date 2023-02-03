@@ -9,11 +9,11 @@ npm install
 
 ### Boot up PocketBase Server
 
-Windows
+#### Windows
 ```
 ./pocketbase.exe serve
 ```
-Linux
+#### Linux
 ```
 ./pocketbase serve
 ```
